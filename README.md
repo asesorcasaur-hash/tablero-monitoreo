@@ -1,2 +1,2 @@
 # tablero-monitoreo
-TABLERO DE MONITOREOS CASAUR
+monitoreo-calidad
